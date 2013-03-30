@@ -5,7 +5,8 @@ iSee is
 - is opiniated, may be.
 - about giving value to point of view and beholder of point of view.
 - a universal database schema/model
-- a standard to represent data. a standardized data structure.
+- a standard to represent data. 
+- a standardized data structure.
 - a graph with some constraint/rules ( if talking descrete mathematic )
 - a standard query language
    - some usability win in terms of quering database ?
